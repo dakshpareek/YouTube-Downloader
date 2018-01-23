@@ -1,3 +1,4 @@
+#pip install requests,bs4,pytube
 import requests
 from bs4 import BeautifulSoup
 from pytube import YouTube
